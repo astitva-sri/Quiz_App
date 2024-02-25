@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669610384642",
+    "project_id": "the-quiz-app-cad36",
+    "storage_bucket": "the-quiz-app-cad36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669610384642:android:a9bbd0ea60aa3cb249361b",
+        "android_client_info": {
+          "package_name": "com.application.the_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-Xc5QClMYVZ2ozZmahLhDvkdvAfo7Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
